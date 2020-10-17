@@ -1,4 +1,2 @@
-INSERT INTO department (id,name) VALUES (1,'営業');
-INSERT INTO department (id,name) VALUES (2,'経理');
-INSERT INTO department (id,name) VALUES (3,'開発');
-INSERT INTO department (id,name) VALUES (4,'総務');
+INSERT INTO department(name)
+VALUES('営業'),('経理'),('開発'),('総務');
